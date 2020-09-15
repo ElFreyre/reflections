@@ -1,0 +1,55 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced
+
+    Fill in your answer here
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term
+
+    Fill in your answer here
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does
+
+    Fill in your answer here
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately
+
+    Fill in your answer here
+
+How can you use the commands git log and git diff to view the history of files
+
+    Fill in your answer here
+
+How might using version control make you more confident to make changes that
+could break something
+
+    Fill in your answer here
+
+Now that you have your workspace set up, what do you want to try using Git for
+
+    Fill in your answer here
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+Well. it's easy to search in things of what you had already do and not make it again in case it didn't work
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git,
+vs having versions automatically saved, like Google Docs does?
+The pros is that I have all the control and that's also a cons haha, in the way that I have the control
+I can be a mess with my commits and that's bad for the project and myself
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit,
+while others, like Google Docs, treat each file separately?
+Bc in this case a big project is not only 1 file, it is involve with a lot of files most of the time
+so it's easy to understand why they do that
+
+How can you use the commands git log and git diff to view the history of files?
+With git log I can view the note that the developer put, and his id and with git diff I can compare the two Ids that I want
+
+How might using version control make you more confident to make changes that could break something?
+If i screw up something, i just need to comeback to a safe commit/head and work with that
+
+Now that you have your workspace set up, what do you want to try using Git for?
+For working  th my coworkers or friends
