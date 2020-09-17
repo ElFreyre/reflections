@@ -1,0 +1,4 @@
+When would you want to use a remote repository rather than keeping all your work
+local?
+I think all the times is a very good idea, a backup, when i need to change my pc
+or even when i work with other developers
